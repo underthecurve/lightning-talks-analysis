@@ -11,20 +11,20 @@ This GitHub houses the cleaned data in `lightningtalks_clean.csv` and the analys
 Here are the columns in `lightningtalks_clean.csv`:
 
 | column        | description           | 
-| ------------- |:-------------:| 
-| year     | year of conference | 
-| title      | talk title      | 
-| speaker      | speaker who pitched to the site | 
-| copresented      | was there a co-presenter? 1 = yes  |
-| copresenter      | name of co-presenter, if yes | 
-| org     | organizational affiliation of speaker at the time of the talk      |
-| nonmale     | gender identity of speaker; 1 = nonmale      |
-| location     | location of speaker at the time of the talk      |
-| international     | was the speaker from outside of the U.S.? 1 = yes      |
-| description     | talk description      |
-| votes     | numer of votes the talk received      |
-| top_10     | was the talk selected to be presented at NICAR (usually this mean it was in the top 10)? 1 = yes      |
-| gave_talk     | did the speaker give the tak at NICAR (some years had last-minute changes)? 1 = yes      |
+| ------------- | -------------| 
+| `year`     | year of conference | 
+| `title`      | talk title      | 
+| `speaker`     | speaker who pitched to the site | 
+| `copresented`      | was there a co-presenter? 1 = yes  |
+| `copresenter`      | name of co-presenter, if yes | 
+| `org`     | organizational affiliation of speaker at the time of the talk      |
+| `nonmale`     | gender identity of speaker; 1 = nonmale      |
+| `location`     | location of speaker at the time of the talk      |
+| `international`     | was the speaker from outside of the U.S.? 1 = yes      |
+| `description`     | talk description      |
+| `votes`     | numer of votes the talk received      |
+| `top_10`     | was the talk selected to be presented at NICAR (usually this mean it was in the top 10)? 1 = yes      |
+| `gave_talk`     | did the speaker give the tak at NICAR (some years had last-minute changes)? 1 = yes      |
 
 
 
