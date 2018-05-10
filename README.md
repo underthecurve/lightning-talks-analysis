@@ -22,7 +22,7 @@ Here are the columns in `lightningtalks_clean.csv`:
 | `location`     | location of speaker at the time of the talk      |
 | `international`     | was the speaker from outside of the U.S.? 1 = yes      |
 | `description`     | talk description      |
-| `votes`     | numer of votes the talk received      |
+| `votes`     | number of votes the talk received      |
 | `top_10`     | was the talk selected to be presented at NICAR (usually this mean it was in the top 10)? 1 = yes      |
 | `gave_talk`     | did the speaker give the tak at NICAR (some years had last-minute changes)? 1 = yes      |
 
